@@ -1,7 +1,9 @@
 <div align="center">
 	<h1>Blender Docs</h1>
-	<p>🎇 ready-to-use Blender environments, materials, and presets</p>
+	<p>🎇 Ready-to-use Blender environments, materials and presets</p>
 </div>
+
+---
 
 ## Docs
 
