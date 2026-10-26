@@ -1,4 +1,7 @@
-<h1 align="center">Blender Docs</h1>
+<div align="center">
+	<h1>Blender Docs</h1>
+	<p>🎇 ready-to-use Blender environments, materials, and presets</p>
+</div>
 
 ## Docs
 
